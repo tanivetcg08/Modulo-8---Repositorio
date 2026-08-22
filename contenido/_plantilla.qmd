@@ -1,3 +1,9 @@
 ---
 title: "Plantilla"
+description: "Este el proceso de una plantilla"
+date:"2026-08-22"
 ---
+
+# Título
+
+Principales hallazgos encontrados
