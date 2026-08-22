@@ -1,0 +1,12 @@
+---
+title: "Contenidos"
+listing:
+  contents: contenido/*.qmd
+  sort: "date asc"
+  type: table
+  fields: [date, title, description]
+  field-display-names:
+    date: "Fecha"
+    title: "Mi contenido"
+    description: "Descripción"
+---
